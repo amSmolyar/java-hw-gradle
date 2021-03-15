@@ -1,0 +1,5 @@
+rootProject.name = 'gradlehw'
+include 'db'
+include 'api'
+include 'service'
+
